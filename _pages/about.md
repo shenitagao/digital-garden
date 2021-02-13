@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+i like to think sometimes
