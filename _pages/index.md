@@ -5,18 +5,12 @@ id: home
 permalink: /
 ---
 
-# heyo!! shen here. <3
+# well, this is it.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  welcome to my <span style="font-weight: bold">[[digital garden]]</span>! i hope you enjoy your stay.
-</p>
+welcome to sometimesithink dot com.
 
-my dms are open on [the bird app](https://twitter.com/grapepiss) - feel free to say hi!!
+(who would come up with such a ridiculous name?? we don't know!!)
 
+at this fine establishment, we pride ourselves on only serving the best half-baked thoughts and unoriginal ideas for your viewing pleasure. 
 
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+we hope you enjoy your stay[!!](/punctuation){: .internal-link}
