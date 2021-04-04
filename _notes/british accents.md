@@ -13,3 +13,5 @@ i swear that every british person i've met, which is like a grand total of at le
 one day i will move to the united kingdom and get a british accent of my own. you will be able to tell, because then this piece of writing will no longer be a hot mess. it will be a hot, posh mess.
 
 wow. now that i think of it, bri-ish people get to spell and say the word [[favourite]] with utter confidence and eloquence!! now that's what i'd call bloody amazing, luv.
+
+update: i was just watching a video and some guy said blimey. in a conversation. very normally. that is the life i want to live!!

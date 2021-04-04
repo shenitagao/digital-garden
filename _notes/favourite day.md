@@ -2,7 +2,7 @@
 title: favourite days
 ---
 
-# my favourite day is probably thursday.
+# my [[favourite]] day is probably thursday.
 
 today is monday, which is ALSO KNOWN AS the worst day of the week to basically EVERYONE that i know. anyways! i was thinking about what *my* favourite day is, and after much deliberation, i've got to say that thursday is the winner.
 

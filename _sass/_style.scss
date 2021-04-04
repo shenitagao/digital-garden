@@ -41,7 +41,7 @@ footer {
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+  // margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
 }
@@ -85,7 +85,7 @@ a {
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background: #cbeb94;
   }
   &:after {
     position: relative;
@@ -99,8 +99,12 @@ a {
   }
 }
 
+content a.internal-link {
+  background: #cbeb94 !important;
+}
+
 *:focus {
-  background: #ffe8bc !important;
+  background: #cbeb94 !important;
   color: black !important;
 }
 
