@@ -13,4 +13,4 @@ welcome to sometimesithink dot com.
 
 at this fine establishment, we pride ourselves on only serving the best half-baked thoughts and unoriginal ideas for your viewing pleasure. 
 
-hope you enjoy your stay[!!](/punctuation){: .internal-link}
+hope you enjoy your stay[!!!!!!!!!!!!!!!!!!!!!!](/punctuation){: .internal-link}
