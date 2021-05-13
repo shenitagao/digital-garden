@@ -24,7 +24,7 @@ yeah, i'll give you a second to take in all its glory. now, imagine typing and n
 
 but YEAH going from qwerty to colemak was pretty hard because #musclememory or whatever!! yay unlearning and relearning!! i eventually figured it out, though (obviously!!)
 
-if you're curious, i used [keyzen colemak](http://first20hours.github.io/keyzen-colemak/), went to [keybr](https://www.keybr.com/) a bit after gaining some basic familarity with the format, but mainly used [monkeytype](https://monkeytype.com/). yeehaw!! can't wait to get better and be a literal speed demon!!
+if you're curious about the [[tools]] i used, i tried out [keyzen colemak](http://first20hours.github.io/keyzen-colemak/), went to [keybr](https://www.keybr.com/) a bit after gaining some basic familarity with the format, but mainly used [monkeytype](https://monkeytype.com/). yeehaw!! can't wait to get better and be a literal speed demon!!
 
 ---
 

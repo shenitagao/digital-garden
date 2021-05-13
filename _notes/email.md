@@ -22,7 +22,7 @@ another annoying thing about email is THE EMAIL TRACKERS PEOPLE PUT ON THEIR EMA
 
 # in conclusion
 
-email is inherently good. IF we choose to use it nicely. so let's do that!! thanks <3
+like rousseau or some guy said about human nature, email is inherently good. so let's get back to basics!! thanks <3
 
 ---
 
