@@ -88,7 +88,7 @@ i have a need for speed, but only online apparently!! love watching youtube or n
 
 ### [text to speech tool thing](https://www.naturalreaders.com/online/)
 
-i really can't focus sometimes and couldn't be bothered to read about how frogs hibernate or whatever, so i use this bad boy to read me the content OUT LOUD instead!! i usually put on lucy cuz she has a posh [[british accent]] and i can pretend the queen is reading me my english assignment <3
+i really can't focus sometimes and couldn't be bothered to read about how frogs hibernate or whatever, so i use this bad boy to read me the content OUT LOUD instead!! i usually put on lucy cuz she has a posh [british accent](/british-accents){: .internal-link} and i can pretend the queen is reading me my english assignment <3
 
 ### [opal.so](https://www.opal.so/)
 
