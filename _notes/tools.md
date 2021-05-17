@@ -78,6 +78,10 @@ i got into [[colemak]] and have been trying to get back to a higher typing speed
 
 such a great resource to use to have some fun with web dev experiments!! the logo is AMAZING (unrelated but fax) and there's just good vibes all around. at some point it motivated me to code everyday?!?! i should get back on that oops
 
+### [mmm.page](http://mmm.page/)
+
+SO FUN!!!!!!! making a hot sexy website has never been this easy (or fun!!!!!) did i mention that it's FUN?!!!?!?! so many cool features that are EVER-EXPANDING, the guy behind it is SO nice, and it just gives off such great vibes!!!!!!!! i truly am rejoicing and being glad!!!!!!!!!!!
+
 ### [lunapic](https://www10.lunapic.com/editor/#)
 
 it looks pretty old, which is kinda cute honestly.. and it works like a charm!! their transparency tool is a GODSEND. also, they have these really fun animation features where you can make a [rotating cube gif](https://www10.lunapic.com/editor/?action=cubeanim) out of any image!! love it lots and highly recommend for your basic photo editing needs!!
